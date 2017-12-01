@@ -17,4 +17,6 @@ This is our first project for RED academy's web development program. It was desi
 - To introduce simple javascript functionality
 
 
+![Screen Shot](images/screenshot-desktop.png "aloha")
+![Screen Shot](images/screenshot-mobile.png "aloha")
 
